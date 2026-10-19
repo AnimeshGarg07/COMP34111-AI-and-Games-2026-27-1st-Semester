@@ -1,6 +1,7 @@
 # Week 4: minimax, alpha-beta pruning and evaluation functions
 
-The full explanation lives in Notion (Week 4 page of the COMP34111 course database).
+The full explanation lives in Notion (Week 4 page of the COMP34111 course database);
+`Week04_Minimax_AlphaBeta_Heuristics.md` is a markdown copy of it.
 This folder holds what the notes were built from, so every number in them can be re-checked.
 
 - `figures/`: the SVG figures used in the notes.
