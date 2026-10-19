@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="330" viewBox="0 0 980 330"><title>The open-lines heuristic</title><rect width="980" height="330" fill="#ffffff"/><rect x="70" y="80" width="150" height="150" rx="4" fill="#ffffff" stroke="#d9d8d3" stroke-width="1"/>
+<line x1="120.0" y1="83" x2="120.0" y2="227" stroke="#52514e" stroke-width="1.6"/>
+<line x1="73" y1="130.0" x2="217" y2="130.0" stroke="#52514e" stroke-width="1.6"/>
+<line x1="170.0" y1="83" x2="170.0" y2="227" stroke="#52514e" stroke-width="1.6"/>
+<line x1="73" y1="180.0" x2="217" y2="180.0" stroke="#52514e" stroke-width="1.6"/>
+<line x1="80" y1="105.0" x2="210" y2="105.0" stroke="#2a78d6" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="95.0" y1="90" x2="95.0" y2="220" stroke="#eb6834" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="80" y1="155.0" x2="210" y2="155.0" stroke="#2a78d6" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="145.0" y1="90" x2="145.0" y2="220" stroke="#eb6834" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="80" y1="205.0" x2="210" y2="205.0" stroke="#2a78d6" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="195.0" y1="90" x2="195.0" y2="220" stroke="#eb6834" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="82" y1="92" x2="208" y2="218" stroke="#1baf7a" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<line x1="208" y1="92" x2="82" y2="218" stroke="#6250d6" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<text x="145.0" y="250.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >8 lines: 3 rows,</text>
+<text x="145.0" y="268.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >3 columns, 2 diagonals</text>
+<text x="40.0" y="40.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="start" dominant-baseline="central" >Where can anyone still win?</text>
+<text x="300.0" y="40.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="start" dominant-baseline="central" >The slide-14 sequence, scored for X</text>
+<rect x="300" y="80" width="120" height="120" rx="4" fill="#ffffff" stroke="#d9d8d3" stroke-width="1"/>
+<rect x="381.0" y="81.0" width="38.0" height="38.0" fill="#fde7c7"/>
+<rect x="341.0" y="121.0" width="38.0" height="38.0" fill="#fde7c7"/>
+<rect x="301.0" y="161.0" width="38.0" height="38.0" fill="#fde7c7"/>
+<line x1="340.0" y1="83" x2="340.0" y2="197" stroke="#52514e" stroke-width="1.6"/>
+<line x1="303" y1="120.0" x2="417" y2="120.0" stroke="#52514e" stroke-width="1.6"/>
+<line x1="380.0" y1="83" x2="380.0" y2="197" stroke="#52514e" stroke-width="1.6"/>
+<line x1="303" y1="160.0" x2="417" y2="160.0" stroke="#52514e" stroke-width="1.6"/>
+<path d="M388.8,88.8 L411.2,111.2 M411.2,88.8 L388.8,111.2" stroke="#2a78d6" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M348.8,128.8 L371.2,151.2 M371.2,128.8 L348.8,151.2" stroke="#2a78d6" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="400.0" cy="140.0" r="11.8" fill="none" stroke="#eb6834" stroke-width="3.5"/>
+<text x="360.0" y="220.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >O to move</text>
+<text x="360.0" y="242.0" font-family="'DejaVu Sans Mono', monospace" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >h = 6 − 2 = 4</text>
+<text x="360.0" y="264.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >true value: X wins (+1)</text>
+<path d="M432,140 L508,140" stroke="#8a8984" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="525" y="80" width="120" height="120" rx="4" fill="#ffffff" stroke="#d9d8d3" stroke-width="1"/>
+<line x1="565.0" y1="83" x2="565.0" y2="197" stroke="#52514e" stroke-width="1.6"/>
+<line x1="528" y1="120.0" x2="642" y2="120.0" stroke="#52514e" stroke-width="1.6"/>
+<line x1="605.0" y1="83" x2="605.0" y2="197" stroke="#52514e" stroke-width="1.6"/>
+<line x1="528" y1="160.0" x2="642" y2="160.0" stroke="#52514e" stroke-width="1.6"/>
+<path d="M613.8,88.8 L636.2,111.2 M636.2,88.8 L613.8,111.2" stroke="#2a78d6" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M573.8,128.8 L596.2,151.2 M596.2,128.8 L573.8,151.2" stroke="#2a78d6" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="625.0" cy="140.0" r="11.8" fill="none" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="545.0" cy="180.0" r="11.8" fill="none" stroke="#eb6834" stroke-width="3.5"/>
+<text x="585.0" y="220.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >X to move</text>
+<text x="585.0" y="242.0" font-family="'DejaVu Sans Mono', monospace" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >h = 3 − 2 = 1</text>
+<text x="585.0" y="264.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >true value: X wins (+1)</text>
+<path d="M657,140 L733,140" stroke="#8a8984" stroke-width="1.6" marker-end="url(#arr)"/>
+<rect x="750" y="80" width="120" height="120" rx="4" fill="#ffffff" stroke="#d9d8d3" stroke-width="1"/>
+<rect x="791.0" y="81.0" width="38.0" height="38.0" fill="#fbe3e3"/>
+<rect x="831.0" y="161.0" width="38.0" height="38.0" fill="#fbe3e3"/>
+<line x1="790.0" y1="83" x2="790.0" y2="197" stroke="#52514e" stroke-width="1.6"/>
+<line x1="753" y1="120.0" x2="867" y2="120.0" stroke="#52514e" stroke-width="1.6"/>
+<line x1="830.0" y1="83" x2="830.0" y2="197" stroke="#52514e" stroke-width="1.6"/>
+<line x1="753" y1="160.0" x2="867" y2="160.0" stroke="#52514e" stroke-width="1.6"/>
+<path d="M758.8,88.8 L781.2,111.2 M781.2,88.8 L758.8,111.2" stroke="#2a78d6" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M838.8,88.8 L861.2,111.2 M861.2,88.8 L838.8,111.2" stroke="#2a78d6" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M798.8,128.8 L821.2,151.2 M821.2,128.8 L798.8,151.2" stroke="#2a78d6" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="850.0" cy="140.0" r="11.8" fill="none" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="770.0" cy="180.0" r="11.8" fill="none" stroke="#eb6834" stroke-width="3.5"/>
+<text x="810.0" y="220.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >O to move</text>
+<text x="810.0" y="242.0" font-family="'DejaVu Sans Mono', monospace" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >h = 3 − 1 = 2</text>
+<text x="810.0" y="264.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >true value: X wins (+1)</text>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a8984"/></marker></defs>
+<text x="300.0" y="302.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start" dominant-baseline="central" >① X threatens the shaded diagonal, so O must block.   ③ X has a fork (two shaded squares); O can block only one.</text></svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="470" viewBox="0 0 980 470"><title>Chomp and Nim</title><rect width="980" height="470" fill="#ffffff"/><text x="30.0" y="30.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="start" dominant-baseline="central" >2 × 3 Chomp: whoever eats the poisoned square (P, bottom-left) loses</text>
+<rect x="41" y="115" width="42" height="42" rx="5" fill="#c0392b"/>
+<text x="62.0" y="137.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#ffffff" text-anchor="middle" dominant-baseline="central" >P</text>
+<rect x="85" y="115" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="129" y="115" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="41" y="71" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="85" y="71" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="129" y="71" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="129" y="71" width="42" height="42" rx="5" fill="none" stroke="#eda100" stroke-width="3"/>
+<text x="106.0" y="176.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >start</text>
+<text x="106.0" y="194.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >P1 to move</text>
+<path d="M190,114 L240,114" stroke="#8a8984" stroke-width="1.6" marker-end="url(#a2)"/>
+<rect x="261" y="115" width="42" height="42" rx="5" fill="#c0392b"/>
+<text x="282.0" y="137.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#ffffff" text-anchor="middle" dominant-baseline="central" >P</text>
+<rect x="305" y="115" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="349" y="115" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="261" y="71" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="305" y="71" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="349" y="71" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<text x="326.0" y="176.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >after P1 eats top-right</text>
+<text x="326.0" y="194.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >P2 to move: LOSING</text>
+<text x="470.0" y="92.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="start" dominant-baseline="central" >Positions where the player to move loses:</text>
+<rect x="481" y="165" width="42" height="42" rx="5" fill="#c0392b"/>
+<text x="502.0" y="187.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#ffffff" text-anchor="middle" dominant-baseline="central" >P</text>
+<rect x="525" y="165" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="569" y="165" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="481" y="121" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="525" y="121" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="569" y="121" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<text x="546.0" y="226.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >3 / 2</text>
+<rect x="641" y="165" width="42" height="42" rx="5" fill="#c0392b"/>
+<text x="662.0" y="187.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#ffffff" text-anchor="middle" dominant-baseline="central" >P</text>
+<rect x="685" y="165" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="729" y="165" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<rect x="641" y="121" width="42" height="42" rx="5" fill="#8a5a3c"/>
+<rect x="685" y="121" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<rect x="729" y="121" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<text x="706.0" y="226.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >2 / 1</text>
+<rect x="801" y="165" width="42" height="42" rx="5" fill="#c0392b"/>
+<text x="822.0" y="187.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#ffffff" text-anchor="middle" dominant-baseline="central" >P</text>
+<rect x="845" y="165" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<rect x="889" y="165" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<rect x="801" y="121" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<rect x="845" y="121" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<rect x="889" y="121" width="42" height="42" rx="5" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<text x="866.0" y="226.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >1 / 0</text>
+<text x="866.0" y="244.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >only poison left</text>
+<text x="470.0" y="262.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start" dominant-baseline="central" >Pattern: the bottom row is exactly one square longer than the top row.</text>
+<text x="470.0" y="280.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start" dominant-baseline="central" >Every move from such a position breaks the pattern, the opponent can</text>
+<text x="470.0" y="298.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start" dominant-baseline="central" >always restore it, and in the end the mover faces the poison alone.</text>
+<line x1="20" y1="320" x2="960" y2="320" stroke="#d9d8d3"/>
+<text x="30.0" y="346.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="start" dominant-baseline="central" >(3, 3, 3)-Nim: take any number from one heap</text>
+<rect x="40" y="414" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="40" y="392" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="40" y="370" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="86" y="414" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="86" y="392" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="86" y="370" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="132" y="414" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="132" y="392" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="132" y="370" width="34" height="16" rx="4" fill="#2a78d6"/>
+<text x="97.0" y="452.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >(3, 3, 3): P1 to move</text>
+<path d="M190,405 L240,405" stroke="#8a8984" stroke-width="1.6" marker-end="url(#a2)"/>
+<rect x="260" y="414" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="260" y="392" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="260" y="370" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="306" y="414" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="306" y="392" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="306" y="370" width="34" height="16" rx="4" fill="#2a78d6"/>
+<rect x="352" y="414" width="34" height="16" rx="4" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<rect x="352" y="392" width="34" height="16" rx="4" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<rect x="352" y="370" width="34" height="16" rx="4" fill="none" stroke="#d9d8d3" stroke-dasharray="4 3"/>
+<text x="317.0" y="452.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >(3, 3, 0): P2 to move</text>
+<text x="430.0" y="386.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start" dominant-baseline="central" >Winning move: empty one heap. Two equal heaps remain, so P1 copies</text>
+<text x="430.0" y="404.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start" dominant-baseline="central" >every move of P2 on the other heap (the mirror strategy). P1 always has</text>
+<text x="430.0" y="422.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start" dominant-baseline="central" >a reply, so P1 takes the last stick. (Same first move wins if taking</text>
+<text x="430.0" y="440.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start" dominant-baseline="central" >the last stick loses; only the very end of the play changes.)</text>
+<defs><marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a8984"/></marker></defs></svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300"><title>The alpha-beta update rules</title><rect width="900" height="300" fill="#ffffff"/><text x="132.0" y="92.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#2a78d6" text-anchor="end" dominant-baseline="central" >MAX node</text>
+<rect x="151" y="70" width="228" height="44" rx="6" fill="#ecebe7"/>
+<text x="265.0" y="85.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >ignore v</text>
+<text x="265.0" y="102.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >move on to next child</text>
+<rect x="381" y="70" width="248" height="44" rx="6" fill="#dbe8fa"/>
+<text x="505.0" y="85.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >α ← v</text>
+<text x="505.0" y="102.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >raise the lower bound, next child</text>
+<rect x="631" y="70" width="228" height="44" rx="6" fill="#fbe3e3"/>
+<text x="745.0" y="85.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e34948" text-anchor="middle" dominant-baseline="central" >CUT-OFF</text>
+<text x="745.0" y="102.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >MIN above will never allow this: return</text>
+<line x1="380" y1="62" x2="380" y2="122" stroke="#0b0b0b" stroke-width="2"/>
+<text x="380.0" y="52.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >α</text>
+<line x1="630" y1="62" x2="630" y2="122" stroke="#0b0b0b" stroke-width="2"/>
+<text x="630.0" y="52.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >β</text>
+<text x="265.0" y="132.0" font-family="'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >v ≤ α</text>
+<text x="505.0" y="132.0" font-family="'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >α &lt; v &lt; β</text>
+<text x="745.0" y="132.0" font-family="'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >v ≥ β</text>
+<text x="132.0" y="202.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#eb6834" text-anchor="end" dominant-baseline="central" >MIN node</text>
+<rect x="151" y="180" width="228" height="44" rx="6" fill="#fbe3e3"/>
+<text x="265.0" y="195.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e34948" text-anchor="middle" dominant-baseline="central" >CUT-OFF</text>
+<text x="265.0" y="212.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >MAX above will never allow this: return</text>
+<rect x="381" y="180" width="248" height="44" rx="6" fill="#dbe8fa"/>
+<text x="505.0" y="195.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >β ← v</text>
+<text x="505.0" y="212.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >lower the upper bound, next child</text>
+<rect x="631" y="180" width="228" height="44" rx="6" fill="#ecebe7"/>
+<text x="745.0" y="195.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >ignore v</text>
+<text x="745.0" y="212.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >move on to next child</text>
+<line x1="380" y1="172" x2="380" y2="232" stroke="#0b0b0b" stroke-width="2"/>
+<text x="380.0" y="162.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >α</text>
+<line x1="630" y1="172" x2="630" y2="232" stroke="#0b0b0b" stroke-width="2"/>
+<text x="630.0" y="162.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle" dominant-baseline="central" >β</text>
+<text x="265.0" y="242.0" font-family="'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >v ≤ α</text>
+<text x="505.0" y="242.0" font-family="'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >α &lt; v &lt; β</text>
+<text x="745.0" y="242.0" font-family="'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle" dominant-baseline="central" >v ≥ β</text>
+<text x="150.0" y="28.0" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="start" dominant-baseline="central" >Where does the value v just returned by a child fall, relative to the window (α, β)?</text></svg>
